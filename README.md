@@ -1,7 +1,6 @@
 # zhan-shen
 战神安装教程  https://dmserver.github.io/
 
-v2ray ssr ss ddns frpc frps aria2 qbittorrent订阅等超多功能
 
 功能：公网动态ddns解析，frpc穿透，frps开服，虚拟组网（穿透，公网4转6），公网4 6转 ，aria2+qbittorrent远程下载，酸奶库，酸奶，博客，web监控，自动更新tracker服务器，等
 
